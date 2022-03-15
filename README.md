@@ -1,11 +1,16 @@
 # Hello I'm Rayane! :wave:
 ##  About me
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneen&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 
-### My personnal projects :hammer:
-- [Walk-Empire](https://walk-empire.herokuapp.com/) is game made in a 2 weeks project (7 real development days). The goal is to conquer some control points in Bordeaux. To conquer a control point, you need to walk a certain amount of meters. For example, if you walked 200m, the next person wanting to steal your territory would need to walk 201m. Earn levels and conquer the town by being the best walker!
-- More to come. Stay tuned!
-### My tools :computer:
+### I'm looking for a job! Let's get in touch :coffee:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rayane-nordine/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+### Languages & tools :computer:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -15,6 +20,11 @@
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+### My personnal projects :hammer:
+- [Walk-Empire](https://walk-empire.herokuapp.com/) is game made in a 2 weeks project (7 real development days). The goal is to conquer some control points in Bordeaux. To conquer a control point, you need to walk a certain amount of meters. For example, if you walked 200m, the next person wanting to steal your territory would need to walk 201m. Earn levels and conquer the town by being the best walker!
+- More to come... Stay tuned! :construction:
+
 
 ## My contributions :chart_with_upwards_trend:
 <p float="left">
