@@ -3,7 +3,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneen&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 
 ### My personnal projects :hammer:
-- [Walk-Empire](https://walk-empire.herokuapp.com/) is game made in a 2 week project. The goal is to conquer some control points in Bordeaux. To conquer a control point, you need to walk a certain amount of meters. For example, if you walked 200m, the next person wanting to steal your territory would need to walk 201m. Earn levels and conquer the town by being the best walker!
+- [Walk-Empire](https://walk-empire.herokuapp.com/) is game made in a 2 weeks project (7 real development days). The goal is to conquer some control points in Bordeaux. To conquer a control point, you need to walk a certain amount of meters. For example, if you walked 200m, the next person wanting to steal your territory would need to walk 201m. Earn levels and conquer the town by being the best walker!
 - More to come. Stay tuned!
 ### My tools :computer:
 <p>
