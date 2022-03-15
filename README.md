@@ -1,5 +1,6 @@
 # Hello I'm Rayane! :wave:
 ##  About me
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneen&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 ### My personnal projects :hammer:
 - My projet made in 2 weeks [Walk-Empire](https://walk-empire.herokuapp.com/)
 ### Programming Languages :computer:
@@ -16,4 +17,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayaneen&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="My github stats" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneen&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+
