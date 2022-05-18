@@ -1,7 +1,7 @@
 # Hello I'm Rayane! :wave:
 ##  About me
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneen&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+
+<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayaneen&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 
 ### I'm looking for a job! Let's get in touch :coffee:
 <div id="badges">
@@ -29,7 +29,8 @@
 ## My contributions :chart_with_upwards_trend:
 <p float="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rayaneen&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayaneen&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="My github stats" /> 
+
+<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rayaneen&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="My github stats" /> 
 </p>
 
 
