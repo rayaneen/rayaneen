@@ -3,15 +3,6 @@
 
 <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayaneen&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 
-### My portfolio: https://troopl.com/rayanenordine
-
-### I'm looking for a job! Let's get in touch :coffee:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/rayane-nordine/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ### Languages & tools :computer:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
